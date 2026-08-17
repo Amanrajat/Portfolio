@@ -20,7 +20,7 @@ export const experience: Experience[] = [
     id: "chalo-chale",
     company: "Chalo Chale",
     role: "Backend Developer",
-    period: "Jan 2025 – Dec 2025",
+    period: "May 2025 – Jan 2026",
     current: false,
     summary:
       "Built and maintained backend services and APIs, focusing on performance, authentication and reliable request handling under real production traffic.",

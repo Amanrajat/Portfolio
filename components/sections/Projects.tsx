@@ -24,7 +24,7 @@ export function Projects() {
       <Container>
         <SectionHeading
           eyebrow="Projects"
-          title="Real products, not tutorials"
+          title="Real Products"
           description="A featured live product, plus a curated set of backend, full-stack and AI projects."
         />
 
